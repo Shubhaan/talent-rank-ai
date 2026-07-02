@@ -257,5 +257,7 @@ if __name__ == '__main__':
     out_df = rank_candidates(jsonl_path, jd_text, top_k=100)
     
     out_csv = r'C:\Users\Shubhaan Banerjee\.gemini\antigravity\scratch\talent-rank-ai\ranked_candidates.csv'
+    out_xlsx = r'C:\Users\Shubhaan Banerjee\.gemini\antigravity\scratch\talent-rank-ai\ranked_candidates.xlsx'
     out_df.to_csv(out_csv, index=False, encoding='utf-8')
-    print(f"Successfully exported enriched CSV and JSON files.")
+    out_df.to_excel(out_xlsx, index=False)
+    print(f"Successfully exported enriched CSV, XLSX, and JSON files.")
