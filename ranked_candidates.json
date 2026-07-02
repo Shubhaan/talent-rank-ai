@@ -1,0 +1,3392 @@
+[
+  {
+    "rank": 1,
+    "candidate_id": "CAND_0046064",
+    "score": 0.769,
+    "reasoning": "Senior NLP Engineer at Salesforce with 8.9 yrs exp; hands-on in Embeddings, Vector Search, Pinecone, Opensearch; recruiter response rate 0.78.",
+    "current_role": "Senior NLP Engineer",
+    "current_company": "Salesforce",
+    "years_of_experience": 8.9,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.78,
+    "github_activity_score": 67.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 45.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 74.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Pinecone",
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Python",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Salesforce?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 2,
+    "candidate_id": "CAND_0052328",
+    "score": 0.7523,
+    "reasoning": "Recommendation Systems Engineer at Amazon with 6.5 yrs exp; hands-on in Embeddings, Vector Search, Pinecone, Opensearch; recruiter response rate 0.79.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Amazon",
+    "years_of_experience": 6.5,
+    "location": "Pune, Maharashtra",
+    "recruiter_response_rate": 0.79,
+    "github_activity_score": 77.6,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 78.1
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Pinecone",
+      "Opensearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Amazon?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 3,
+    "candidate_id": "CAND_0030031",
+    "score": 0.7453,
+    "reasoning": "AI Engineer at Microsoft with 5.7 yrs exp; hands-on in Embeddings, Vector Search, Milvus, Rag; recruiter response rate 0.94.",
+    "current_role": "AI Engineer",
+    "current_company": "Microsoft",
+    "years_of_experience": 5.7,
+    "location": "Trivandrum, Kerala",
+    "recruiter_response_rate": 0.94,
+    "github_activity_score": 32.4,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.8,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 73.0
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Milvus",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Pytorch",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Microsoft?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 4,
+    "candidate_id": "CAND_0028793",
+    "score": 0.7427,
+    "reasoning": "Search Engineer at Google with 7.2 yrs exp; hands-on in Embeddings, Pinecone, Elasticsearch, Faiss; recruiter response rate 0.57.",
+    "current_role": "Search Engineer",
+    "current_company": "Google",
+    "years_of_experience": 7.2,
+    "location": "Trivandrum, Kerala",
+    "recruiter_response_rate": 0.57,
+    "github_activity_score": 83.1,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.2,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 72.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Pytorch",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Google?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 5,
+    "candidate_id": "CAND_0071974",
+    "score": 0.7364,
+    "reasoning": "Senior AI Engineer at Netflix with 7.8 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Qdrant; recruiter response rate 0.76.",
+    "current_role": "Senior AI Engineer",
+    "current_company": "Netflix",
+    "years_of_experience": 7.8,
+    "location": "Vizag, Andhra Pradesh",
+    "recruiter_response_rate": 0.76,
+    "github_activity_score": 82.8,
+    "score_breakdown": {
+      "semantic_fit_pct": 42.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 83.3,
+      "behavioral_pct": 80.3
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "Elasticsearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Netflix?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 6,
+    "candidate_id": "CAND_0024990",
+    "score": 0.7341,
+    "reasoning": "Junior ML Engineer at Zoho with 5.2 yrs exp; hands-on in Milvus, Opensearch, Elasticsearch, Retrieval; recruiter response rate 0.83.",
+    "current_role": "Junior ML Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 5.2,
+    "location": "Trivandrum, Kerala",
+    "recruiter_response_rate": 0.83,
+    "github_activity_score": 80.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 31.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 98.3,
+      "behavioral_pct": 83.8
+    },
+    "matched_skills": [
+      "Milvus",
+      "Opensearch",
+      "Elasticsearch",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Pytorch",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Zoho?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 7,
+    "candidate_id": "CAND_0010257",
+    "score": 0.7312,
+    "reasoning": "Senior Data Scientist at Google with 6.5 yrs exp; hands-on in Embeddings, Qdrant, Milvus, Opensearch; recruiter response rate 0.72.",
+    "current_role": "Senior Data Scientist",
+    "current_company": "Google",
+    "years_of_experience": 6.5,
+    "location": "Noida, Uttar Pradesh",
+    "recruiter_response_rate": 0.72,
+    "github_activity_score": 45.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.5,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 66.7
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Qdrant",
+      "Milvus",
+      "Opensearch",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Tensorflow",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Google?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 8,
+    "candidate_id": "CAND_0005649",
+    "score": 0.7287,
+    "reasoning": "Senior Data Scientist at Sarvam AI with 7.4 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Elasticsearch; recruiter response rate 0.57.",
+    "current_role": "Senior Data Scientist",
+    "current_company": "Sarvam AI",
+    "years_of_experience": 7.4,
+    "location": "Delhi, Delhi",
+    "recruiter_response_rate": 0.57,
+    "github_activity_score": 80.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 95.0,
+      "behavioral_pct": 64.3
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Sarvam AI?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 9,
+    "candidate_id": "CAND_0047721",
+    "score": 0.7287,
+    "reasoning": "Senior Data Scientist at Microsoft with 7.0 yrs exp; hands-on in Embeddings, Qdrant, Milvus, Faiss; recruiter response rate 0.49.",
+    "current_role": "Senior Data Scientist",
+    "current_company": "Microsoft",
+    "years_of_experience": 7.0,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.49,
+    "github_activity_score": 90.1,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 64.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Qdrant",
+      "Milvus",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Microsoft?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 10,
+    "candidate_id": "CAND_0054123",
+    "score": 0.7223,
+    "reasoning": "Applied ML Engineer at Meta with 4.7 yrs exp; hands-on in Embeddings, Vector Search, Weaviate, Qdrant; recruiter response rate 0.87.",
+    "current_role": "Applied ML Engineer",
+    "current_company": "Meta",
+    "years_of_experience": 4.7,
+    "location": "Gurgaon, Haryana",
+    "recruiter_response_rate": 0.87,
+    "github_activity_score": 71.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.1,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 91.5,
+      "behavioral_pct": 75.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Weaviate",
+      "Qdrant",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Python"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Meta?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 11,
+    "candidate_id": "CAND_0064904",
+    "score": 0.7216,
+    "reasoning": "AI Engineer at LinkedIn with 4.9 yrs exp; hands-on in Embeddings, Vector Search, Weaviate, Opensearch; recruiter response rate 0.78.",
+    "current_role": "AI Engineer",
+    "current_company": "LinkedIn",
+    "years_of_experience": 4.9,
+    "location": "Hyderabad, Telangana",
+    "recruiter_response_rate": 0.78,
+    "github_activity_score": 59.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.5,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 70.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Weaviate",
+      "Opensearch",
+      "Elasticsearch",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Tensorflow",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at LinkedIn?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 12,
+    "candidate_id": "CAND_0061265",
+    "score": 0.721,
+    "reasoning": "Recommendation Systems Engineer at Zoho with 6.6 yrs exp; hands-on in Embeddings, Vector Search, Qdrant, Milvus; recruiter response rate 0.94.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 6.6,
+    "location": "Delhi, Delhi",
+    "recruiter_response_rate": 0.94,
+    "github_activity_score": 79.8,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 76.7,
+      "behavioral_pct": 88.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Qdrant",
+      "Milvus",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Zoho?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 13,
+    "candidate_id": "CAND_0081053",
+    "score": 0.7197,
+    "reasoning": "NLP Engineer at Glance with 5.4 yrs exp; hands-on in Embeddings, Weaviate, Qdrant, Opensearch; recruiter response rate 0.83.",
+    "current_role": "NLP Engineer",
+    "current_company": "Glance",
+    "years_of_experience": 5.4,
+    "location": "Chandigarh, Chandigarh",
+    "recruiter_response_rate": 0.83,
+    "github_activity_score": 77.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 32.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 95.0,
+      "behavioral_pct": 76.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Weaviate",
+      "Qdrant",
+      "Opensearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Ranking",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Glance?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 14,
+    "candidate_id": "CAND_0078002",
+    "score": 0.7194,
+    "reasoning": "Machine Learning Engineer at Meta with 6.3 yrs exp; hands-on in Embeddings, Weaviate, Rag, Retrieval; recruiter response rate 0.86.",
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Meta",
+    "years_of_experience": 6.3,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.86,
+    "github_activity_score": 50.6,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.1,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 88.3,
+      "behavioral_pct": 75.3
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Weaviate",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow",
+      "Xgboost",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Meta?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 15,
+    "candidate_id": "CAND_0080766",
+    "score": 0.7174,
+    "reasoning": "Staff Machine Learning Engineer at Salesforce with 8.8 yrs exp; hands-on in Milvus, Opensearch, Elasticsearch, Sentence-Transformers; recruiter response rate 0.66.",
+    "current_role": "Staff Machine Learning Engineer",
+    "current_company": "Salesforce",
+    "years_of_experience": 8.8,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.66,
+    "github_activity_score": 32.9,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 91.7,
+      "behavioral_pct": 61.3
+    },
+    "matched_skills": [
+      "Milvus",
+      "Opensearch",
+      "Elasticsearch",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Python",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Salesforce?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 16,
+    "candidate_id": "CAND_0046525",
+    "score": 0.7166,
+    "reasoning": "Senior Machine Learning Engineer at Genpact AI with 6.1 yrs exp; hands-on in Embeddings, Qdrant, Elasticsearch, Faiss; recruiter response rate 0.88.",
+    "current_role": "Senior Machine Learning Engineer",
+    "current_company": "Genpact AI",
+    "years_of_experience": 6.1,
+    "location": "Pune, Maharashtra",
+    "recruiter_response_rate": 0.88,
+    "github_activity_score": 36.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 43.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 80.8,
+      "behavioral_pct": 67.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Qdrant",
+      "Elasticsearch",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Genpact AI?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 17,
+    "candidate_id": "CAND_0018499",
+    "score": 0.7155,
+    "reasoning": "Senior Machine Learning Engineer at Zomato with 7.2 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Milvus; recruiter response rate 0.61.",
+    "current_role": "Senior Machine Learning Engineer",
+    "current_company": "Zomato",
+    "years_of_experience": 7.2,
+    "location": "Noida, Uttar Pradesh",
+    "recruiter_response_rate": 0.61,
+    "github_activity_score": 94.8,
+    "score_breakdown": {
+      "semantic_fit_pct": 42.2,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 75.0,
+      "behavioral_pct": 78.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Zomato?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 18,
+    "candidate_id": "CAND_0002025",
+    "score": 0.715,
+    "reasoning": "Senior AI Engineer at Apple with 5.9 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Opensearch; recruiter response rate 0.80.",
+    "current_role": "Senior AI Engineer",
+    "current_company": "Apple",
+    "years_of_experience": 5.9,
+    "location": "Trivandrum, Kerala",
+    "recruiter_response_rate": 0.8,
+    "github_activity_score": 96.9,
+    "score_breakdown": {
+      "semantic_fit_pct": 47.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 85.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Opensearch",
+      "Faiss",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Apple?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 19,
+    "candidate_id": "CAND_0062247",
+    "score": 0.7127,
+    "reasoning": "AI Engineer at Google with 7.3 yrs exp; hands-on in Vector Search, Pinecone, Qdrant, Elasticsearch; recruiter response rate 0.78.",
+    "current_role": "AI Engineer",
+    "current_company": "Google",
+    "years_of_experience": 7.3,
+    "location": "Kochi, Kerala",
+    "recruiter_response_rate": 0.78,
+    "github_activity_score": 52.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 90.8,
+      "behavioral_pct": 66.3
+    },
+    "matched_skills": [
+      "Vector Search",
+      "Pinecone",
+      "Qdrant",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Google?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 20,
+    "candidate_id": "CAND_0088369",
+    "score": 0.7061,
+    "reasoning": "Business Analyst at Pied Piper with 9.0 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.59.",
+    "current_role": "Business Analyst",
+    "current_company": "Pied Piper",
+    "years_of_experience": 9.0,
+    "location": "Ahmedabad, Gujarat",
+    "recruiter_response_rate": 0.59,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 57.3
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Pied Piper?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 21,
+    "candidate_id": "CAND_0094056",
+    "score": 0.7061,
+    "reasoning": "NLP Engineer at Rephrase.ai with 5.9 yrs exp; hands-on in Embeddings, Pinecone, Milvus, Elasticsearch; recruiter response rate 0.82.",
+    "current_role": "NLP Engineer",
+    "current_company": "Rephrase.ai",
+    "years_of_experience": 5.9,
+    "location": "Chennai, Tamil Nadu",
+    "recruiter_response_rate": 0.82,
+    "github_activity_score": 64.8,
+    "score_breakdown": {
+      "semantic_fit_pct": 34.5,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 88.3,
+      "behavioral_pct": 72.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Milvus",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Rephrase.ai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 22,
+    "candidate_id": "CAND_0039838",
+    "score": 0.7058,
+    "reasoning": "Recommendation Systems Engineer at Amazon with 4.9 yrs exp; hands-on in Embeddings, Vector Search, Milvus, Opensearch; recruiter response rate 0.80.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Amazon",
+    "years_of_experience": 4.9,
+    "location": "Kochi, Kerala",
+    "recruiter_response_rate": 0.8,
+    "github_activity_score": 36.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 61.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Milvus",
+      "Opensearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Ranking",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Amazon?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 23,
+    "candidate_id": "CAND_0042100",
+    "score": 0.7044,
+    "reasoning": "Machine Learning Engineer at Freshworks with 7.3 yrs exp; hands-on in Pinecone, Elasticsearch, Rag, Ranking; recruiter response rate 0.87.",
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Freshworks",
+    "years_of_experience": 7.3,
+    "location": "Singapore",
+    "recruiter_response_rate": 0.87,
+    "github_activity_score": 43.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.6,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 75.8
+    },
+    "matched_skills": [
+      "Pinecone",
+      "Elasticsearch",
+      "Rag",
+      "Ranking",
+      "Pytorch",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Freshworks?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 24,
+    "candidate_id": "CAND_0086151",
+    "score": 0.7043,
+    "reasoning": "Recommendation Systems Engineer at Wysa with 7.7 yrs exp; hands-on in Embeddings, Qdrant, Opensearch, Elasticsearch; recruiter response rate 0.52.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Wysa",
+    "years_of_experience": 7.7,
+    "location": "Vizag, Andhra Pradesh",
+    "recruiter_response_rate": 0.52,
+    "github_activity_score": 51.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 39.2,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 90.8,
+      "behavioral_pct": 57.0
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Qdrant",
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Wysa?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 25,
+    "candidate_id": "CAND_0064326",
+    "score": 0.7032,
+    "reasoning": "Search Engineer at Sarvam AI with 7.6 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Milvus; recruiter response rate 0.94.",
+    "current_role": "Search Engineer",
+    "current_company": "Sarvam AI",
+    "years_of_experience": 7.6,
+    "location": "Gurgaon, Haryana",
+    "recruiter_response_rate": 0.94,
+    "github_activity_score": 61.4,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.8,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 80.0,
+      "behavioral_pct": 76.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Pytorch",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Sarvam AI?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 26,
+    "candidate_id": "CAND_0072660",
+    "score": 0.7029,
+    "reasoning": "Machine Learning Engineer at Unacademy with 7.1 yrs exp; hands-on in Opensearch, Elasticsearch, Faiss, Sentence-Transformers; recruiter response rate 0.53.",
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Unacademy",
+    "years_of_experience": 7.1,
+    "location": "Berlin",
+    "recruiter_response_rate": 0.53,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 33.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 56.8
+    },
+    "matched_skills": [
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Pytorch"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Unacademy?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 27,
+    "candidate_id": "CAND_0010685",
+    "score": 0.7022,
+    "reasoning": "NLP Engineer at Rephrase.ai with 6.7 yrs exp; hands-on in Elasticsearch, Faiss, Sentence-Transformers, Rag; recruiter response rate 0.83.",
+    "current_role": "NLP Engineer",
+    "current_company": "Rephrase.ai",
+    "years_of_experience": 6.7,
+    "location": "Kolkata, West Bengal",
+    "recruiter_response_rate": 0.83,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 83.3,
+      "behavioral_pct": 70.6
+    },
+    "matched_skills": [
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Pytorch",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Rephrase.ai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 28,
+    "candidate_id": "CAND_0066999",
+    "score": 0.7016,
+    "reasoning": "Recommendation Systems Engineer at Microsoft with 5.9 yrs exp; hands-on in Embeddings, Pinecone, Opensearch, Faiss; recruiter response rate 0.63.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Microsoft",
+    "years_of_experience": 5.9,
+    "location": "Delhi, Delhi",
+    "recruiter_response_rate": 0.63,
+    "github_activity_score": 94.4,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.4,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 74.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Opensearch",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Microsoft?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 29,
+    "candidate_id": "CAND_0056137",
+    "score": 0.7008,
+    "reasoning": "Civil Engineer at Initech with 4.7 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.58.",
+    "current_role": "Civil Engineer",
+    "current_company": "Initech",
+    "years_of_experience": 4.7,
+    "location": "Bangalore, Karnataka",
+    "recruiter_response_rate": 0.58,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 51.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Initech?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 30,
+    "candidate_id": "CAND_0008425",
+    "score": 0.6998,
+    "reasoning": "Senior NLP Engineer at Ola with 7.8 yrs exp; hands-on in Pinecone, Qdrant, Sentence-Transformers, Retrieval; recruiter response rate 0.66.",
+    "current_role": "Senior NLP Engineer",
+    "current_company": "Ola",
+    "years_of_experience": 7.8,
+    "location": "Kolkata, West Bengal",
+    "recruiter_response_rate": 0.66,
+    "github_activity_score": 53.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 44.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 77.5,
+      "behavioral_pct": 60.4
+    },
+    "matched_skills": [
+      "Pinecone",
+      "Qdrant",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Python",
+      "Tensorflow",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Ola?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 31,
+    "candidate_id": "CAND_0043318",
+    "score": 0.6991,
+    "reasoning": "Data Scientist at Freshworks with 6.2 yrs exp; hands-on in Weaviate, Rag, Retrieval, Ranking; recruiter response rate 0.42.",
+    "current_role": "Data Scientist",
+    "current_company": "Freshworks",
+    "years_of_experience": 6.2,
+    "location": "Sydney",
+    "recruiter_response_rate": 0.42,
+    "github_activity_score": 78.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.3,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 97.5,
+      "behavioral_pct": 53.8
+    },
+    "matched_skills": [
+      "Weaviate",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Pytorch",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Freshworks?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 32,
+    "candidate_id": "CAND_0044883",
+    "score": 0.6985,
+    "reasoning": "AI Engineer at Mad Street Den with 6.3 yrs exp; hands-on in Embeddings, Pinecone, Elasticsearch, Faiss; recruiter response rate 0.84.",
+    "current_role": "AI Engineer",
+    "current_company": "Mad Street Den",
+    "years_of_experience": 6.3,
+    "location": "Berlin",
+    "recruiter_response_rate": 0.84,
+    "github_activity_score": 70.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 41.3,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 70.8,
+      "behavioral_pct": 74.8
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Pytorch",
+      "Tensorflow",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Mad Street Den?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 33,
+    "candidate_id": "CAND_0079387",
+    "score": 0.6984,
+    "reasoning": "AI Engineer at Microsoft with 6.9 yrs exp; hands-on in Embeddings, Vector Search, Pinecone, Opensearch; recruiter response rate 0.81.",
+    "current_role": "AI Engineer",
+    "current_company": "Microsoft",
+    "years_of_experience": 6.9,
+    "location": "Trivandrum, Kerala",
+    "recruiter_response_rate": 0.81,
+    "github_activity_score": 64.1,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 78.3,
+      "behavioral_pct": 77.8
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Pinecone",
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Microsoft?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 34,
+    "candidate_id": "CAND_0039754",
+    "score": 0.6981,
+    "reasoning": "Senior Applied Scientist at Meta with 16.2 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Qdrant; recruiter response rate 0.81.",
+    "current_role": "Senior Applied Scientist",
+    "current_company": "Meta",
+    "years_of_experience": 16.2,
+    "location": "Indore, Madhya Pradesh",
+    "recruiter_response_rate": 0.81,
+    "github_activity_score": 77.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 44.8,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 62.8,
+      "behavioral_pct": 77.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Python",
+      "Tensorflow",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Meta?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 35,
+    "candidate_id": "CAND_0007411",
+    "score": 0.6974,
+    "reasoning": "Senior Machine Learning Engineer at Amazon with 8.0 yrs exp; hands-on in Vector Search, Pinecone, Opensearch, Retrieval; recruiter response rate 0.12.",
+    "current_role": "Senior Machine Learning Engineer",
+    "current_company": "Amazon",
+    "years_of_experience": 8.0,
+    "location": "Kochi, Kerala",
+    "recruiter_response_rate": 0.12,
+    "github_activity_score": 89.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 42.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 91.7,
+      "behavioral_pct": 44.6
+    },
+    "matched_skills": [
+      "Vector Search",
+      "Pinecone",
+      "Opensearch",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Pytorch",
+      "Tensorflow",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Amazon?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 36,
+    "candidate_id": "CAND_0091909",
+    "score": 0.697,
+    "reasoning": "Machine Learning Engineer at Rephrase.ai with 6.9 yrs exp; hands-on in Embeddings, Pinecone, Qdrant, Opensearch; recruiter response rate 0.65.",
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Rephrase.ai",
+    "years_of_experience": 6.9,
+    "location": "Bangalore, Karnataka",
+    "recruiter_response_rate": 0.65,
+    "github_activity_score": 49.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 85.8,
+      "behavioral_pct": 61.7
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Qdrant",
+      "Opensearch",
+      "Retrieval",
+      "Ranking",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Rephrase.ai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 37,
+    "candidate_id": "CAND_0061339",
+    "score": 0.695,
+    "reasoning": "Search Engineer at Rephrase.ai with 4.2 yrs exp; hands-on in Embeddings, Vector Search, Milvus, Opensearch; recruiter response rate 0.90.",
+    "current_role": "Search Engineer",
+    "current_company": "Rephrase.ai",
+    "years_of_experience": 4.2,
+    "location": "Chandigarh, Chandigarh",
+    "recruiter_response_rate": 0.9,
+    "github_activity_score": 85.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.4,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 64.8,
+      "behavioral_pct": 87.3
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Milvus",
+      "Opensearch",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Rephrase.ai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 38,
+    "candidate_id": "CAND_0052141",
+    "score": 0.6945,
+    "reasoning": "Project Manager at Acme Corp with 7.1 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.67.",
+    "current_role": "Project Manager",
+    "current_company": "Acme Corp",
+    "years_of_experience": 7.1,
+    "location": "London",
+    "recruiter_response_rate": 0.67,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.1,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 88.2,
+      "behavioral_pct": 63.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Acme Corp?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 39,
+    "candidate_id": "CAND_0036598",
+    "score": 0.6919,
+    "reasoning": "Civil Engineer at Initech with 7.3 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.61.",
+    "current_role": "Civil Engineer",
+    "current_company": "Initech",
+    "years_of_experience": 7.3,
+    "location": "Mumbai, Maharashtra",
+    "recruiter_response_rate": 0.61,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.7,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 57.9
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Initech?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 40,
+    "candidate_id": "CAND_0011687",
+    "score": 0.6918,
+    "reasoning": "Senior NLP Engineer at Niramai with 7.8 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Opensearch; recruiter response rate 0.89.",
+    "current_role": "Senior NLP Engineer",
+    "current_company": "Niramai",
+    "years_of_experience": 7.8,
+    "location": "Indore, Madhya Pradesh",
+    "recruiter_response_rate": 0.89,
+    "github_activity_score": 76.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 43.2,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 80.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Opensearch",
+      "Faiss",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Pytorch",
+      "Tensorflow",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Niramai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 41,
+    "candidate_id": "CAND_0013613",
+    "score": 0.6907,
+    "reasoning": "Machine Learning Engineer at Adobe with 4.7 yrs exp; hands-on in Embeddings, Weaviate, Elasticsearch, Faiss; recruiter response rate 0.73.",
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Adobe",
+    "years_of_experience": 4.7,
+    "location": "Singapore",
+    "recruiter_response_rate": 0.73,
+    "github_activity_score": 66.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.3,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 76.5,
+      "behavioral_pct": 71.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Weaviate",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Adobe?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 42,
+    "candidate_id": "CAND_0075062",
+    "score": 0.6906,
+    "reasoning": "Customer Support at Hooli with 7.2 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.38.",
+    "current_role": "Customer Support",
+    "current_company": "Hooli",
+    "years_of_experience": 7.2,
+    "location": "Kochi, Kerala",
+    "recruiter_response_rate": 0.38,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 49.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Hooli?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 43,
+    "candidate_id": "CAND_0005260",
+    "score": 0.6904,
+    "reasoning": "Senior NLP Engineer at Netflix with 5.2 yrs exp; hands-on in Embeddings, Vector Search, Faiss, Rag; recruiter response rate 0.86.",
+    "current_role": "Senior NLP Engineer",
+    "current_company": "Netflix",
+    "years_of_experience": 5.2,
+    "location": "Chennai, Tamil Nadu",
+    "recruiter_response_rate": 0.86,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 44.3,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 77.0
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Python"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Netflix?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 44,
+    "candidate_id": "CAND_0075469",
+    "score": 0.6899,
+    "reasoning": "Customer Support at Pied Piper with 5.4 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.72.",
+    "current_role": "Customer Support",
+    "current_company": "Pied Piper",
+    "years_of_experience": 5.4,
+    "location": "Hyderabad, Telangana",
+    "recruiter_response_rate": 0.72,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 39.6,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 67.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Pied Piper?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 45,
+    "candidate_id": "CAND_0003977",
+    "score": 0.6897,
+    "reasoning": "Recommendation Systems Engineer at Google with 4.6 yrs exp; hands-on in Embeddings, Elasticsearch, Faiss, Sentence-Transformers; recruiter response rate 0.55.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Google",
+    "years_of_experience": 4.6,
+    "location": "Delhi, Delhi",
+    "recruiter_response_rate": 0.55,
+    "github_activity_score": 58.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 32.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 57.7
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Python",
+      "Pytorch",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Google?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 46,
+    "candidate_id": "CAND_0076163",
+    "score": 0.6897,
+    "reasoning": "NLP Engineer at Ola with 6.9 yrs exp; hands-on in Weaviate, Opensearch, Elasticsearch, Rag; recruiter response rate 0.84.",
+    "current_role": "NLP Engineer",
+    "current_company": "Ola",
+    "years_of_experience": 6.9,
+    "location": "Chandigarh, Chandigarh",
+    "recruiter_response_rate": 0.84,
+    "github_activity_score": 84.6,
+    "score_breakdown": {
+      "semantic_fit_pct": 34.1,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 90.0,
+      "behavioral_pct": 85.3
+    },
+    "matched_skills": [
+      "Weaviate",
+      "Opensearch",
+      "Elasticsearch",
+      "Rag",
+      "Ranking",
+      "Python",
+      "Pytorch"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Ola?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 47,
+    "candidate_id": "CAND_0095528",
+    "score": 0.6875,
+    "reasoning": "Senior Data Scientist at Netflix with 5.3 yrs exp; hands-on in Embeddings, Vector Search, Qdrant, Opensearch; recruiter response rate 0.55.",
+    "current_role": "Senior Data Scientist",
+    "current_company": "Netflix",
+    "years_of_experience": 5.3,
+    "location": "Indore, Madhya Pradesh",
+    "recruiter_response_rate": 0.55,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.2,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 85.0,
+      "behavioral_pct": 58.1
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Qdrant",
+      "Opensearch",
+      "Elasticsearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Pytorch"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Netflix?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 48,
+    "candidate_id": "CAND_0086087",
+    "score": 0.6874,
+    "reasoning": "Accountant at Acme Corp with 9.4 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.62.",
+    "current_role": "Accountant",
+    "current_company": "Acme Corp",
+    "years_of_experience": 9.4,
+    "location": "Chennai, Tamil Nadu",
+    "recruiter_response_rate": 0.62,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 82.2,
+      "behavioral_pct": 55.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Acme Corp?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 49,
+    "candidate_id": "CAND_0057563",
+    "score": 0.687,
+    "reasoning": "NLP Engineer at Locobuzz with 6.8 yrs exp; hands-on in Embeddings, Opensearch, Elasticsearch, Faiss; recruiter response rate 0.83.",
+    "current_role": "NLP Engineer",
+    "current_company": "Locobuzz",
+    "years_of_experience": 6.8,
+    "location": "Indore, Madhya Pradesh",
+    "recruiter_response_rate": 0.83,
+    "github_activity_score": 22.8,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 81.7,
+      "behavioral_pct": 65.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Locobuzz?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 50,
+    "candidate_id": "CAND_0060109",
+    "score": 0.6862,
+    "reasoning": "Civil Engineer at Hooli with 9.6 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.63.",
+    "current_role": "Civil Engineer",
+    "current_company": "Hooli",
+    "years_of_experience": 9.6,
+    "location": "Vizag, Andhra Pradesh",
+    "recruiter_response_rate": 0.63,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 33.4,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 54.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Hooli?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 51,
+    "candidate_id": "CAND_0077337",
+    "score": 0.6862,
+    "reasoning": "Staff Machine Learning Engineer at Paytm with 7.0 yrs exp; hands-on in Embeddings, Pinecone, Qdrant, Opensearch; recruiter response rate 0.95.",
+    "current_role": "Staff Machine Learning Engineer",
+    "current_company": "Paytm",
+    "years_of_experience": 7.0,
+    "location": "Kochi, Kerala",
+    "recruiter_response_rate": 0.95,
+    "github_activity_score": 68.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 41.4,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 80.8
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Qdrant",
+      "Opensearch",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Python"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Paytm?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 52,
+    "candidate_id": "CAND_0048812",
+    "score": 0.6843,
+    "reasoning": "Project Manager at Infosys with 7.1 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.69.",
+    "current_role": "Project Manager",
+    "current_company": "Infosys",
+    "years_of_experience": 7.1,
+    "location": "Sydney",
+    "recruiter_response_rate": 0.69,
+    "github_activity_score": 37.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 41.2,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 59.7
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Infosys?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 53,
+    "candidate_id": "CAND_0065195",
+    "score": 0.6827,
+    "reasoning": "Search Engineer at CRED with 5.1 yrs exp; hands-on in Embeddings, Pinecone, Qdrant, Elasticsearch; recruiter response rate 0.80.",
+    "current_role": "Search Engineer",
+    "current_company": "CRED",
+    "years_of_experience": 5.1,
+    "location": "Kolkata, West Bengal",
+    "recruiter_response_rate": 0.8,
+    "github_activity_score": 87.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 70.8,
+      "behavioral_pct": 77.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Qdrant",
+      "Elasticsearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at CRED?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 54,
+    "candidate_id": "CAND_0036891",
+    "score": 0.6822,
+    "reasoning": "Civil Engineer at Initech with 9.4 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.65.",
+    "current_role": "Civil Engineer",
+    "current_company": "Initech",
+    "years_of_experience": 9.4,
+    "location": "Berlin",
+    "recruiter_response_rate": 0.65,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 42.6,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 55.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Initech?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 55,
+    "candidate_id": "CAND_0011162",
+    "score": 0.6815,
+    "reasoning": "Recommendation Systems Engineer at upGrad with 5.8 yrs exp; hands-on in Embeddings, Vector Search, Pinecone, Weaviate; recruiter response rate 0.75.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "upGrad",
+    "years_of_experience": 5.8,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.75,
+    "github_activity_score": 34.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 39.8,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 72.5,
+      "behavioral_pct": 64.9
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Pinecone",
+      "Weaviate",
+      "Milvus",
+      "Opensearch",
+      "Faiss",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at upGrad?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 56,
+    "candidate_id": "CAND_0060072",
+    "score": 0.6814,
+    "reasoning": "Staff Machine Learning Engineer at Amazon with 5.7 yrs exp; hands-on in Embeddings, Vector Search, Pinecone, Qdrant; recruiter response rate 0.10.",
+    "current_role": "Staff Machine Learning Engineer",
+    "current_company": "Amazon",
+    "years_of_experience": 5.7,
+    "location": "Indore, Madhya Pradesh",
+    "recruiter_response_rate": 0.1,
+    "github_activity_score": 82.4,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.4,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 90.8,
+      "behavioral_pct": 38.9
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Pinecone",
+      "Qdrant",
+      "Milvus",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Pytorch"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Amazon?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 57,
+    "candidate_id": "CAND_0055905",
+    "score": 0.6809,
+    "reasoning": "Senior Machine Learning Engineer at Flipkart with 8.1 yrs exp; hands-on in Embeddings, Vector Search, Opensearch, Elasticsearch; recruiter response rate 0.87.",
+    "current_role": "Senior Machine Learning Engineer",
+    "current_company": "Flipkart",
+    "years_of_experience": 8.1,
+    "location": "London",
+    "recruiter_response_rate": 0.87,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 44.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 69.8
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Python"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Flipkart?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 58,
+    "candidate_id": "CAND_0011432",
+    "score": 0.6807,
+    "reasoning": "Senior Data Scientist at Amazon with 7.6 yrs exp; hands-on in Embeddings, Pinecone, Opensearch, Elasticsearch; recruiter response rate 0.67.",
+    "current_role": "Senior Data Scientist",
+    "current_company": "Amazon",
+    "years_of_experience": 7.6,
+    "location": "Chennai, Tamil Nadu",
+    "recruiter_response_rate": 0.67,
+    "github_activity_score": 20.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 83.3,
+      "behavioral_pct": 56.7
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Opensearch",
+      "Elasticsearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Amazon?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 59,
+    "candidate_id": "CAND_0050876",
+    "score": 0.6803,
+    "reasoning": "Applied ML Engineer at Freshworks with 6.0 yrs exp; hands-on in Embeddings, Qdrant, Opensearch, Faiss; recruiter response rate 0.67.",
+    "current_role": "Applied ML Engineer",
+    "current_company": "Freshworks",
+    "years_of_experience": 6.0,
+    "location": "Kolkata, West Bengal",
+    "recruiter_response_rate": 0.67,
+    "github_activity_score": 86.1,
+    "score_breakdown": {
+      "semantic_fit_pct": 34.6,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 91.7,
+      "behavioral_pct": 75.7
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Qdrant",
+      "Opensearch",
+      "Faiss",
+      "Ranking",
+      "Python",
+      "Pytorch"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Freshworks?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 60,
+    "candidate_id": "CAND_0054100",
+    "score": 0.6798,
+    "reasoning": "Junior ML Engineer at Zoho with 6.0 yrs exp; hands-on in Vector Search, Pinecone, Weaviate, Retrieval; recruiter response rate 0.79.",
+    "current_role": "Junior ML Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 6.0,
+    "location": "Kolkata, West Bengal",
+    "recruiter_response_rate": 0.79,
+    "github_activity_score": 73.2,
+    "score_breakdown": {
+      "semantic_fit_pct": 31.2,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 93.3,
+      "behavioral_pct": 81.0
+    },
+    "matched_skills": [
+      "Vector Search",
+      "Pinecone",
+      "Weaviate",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Pytorch"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Zoho?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 61,
+    "candidate_id": "CAND_0068811",
+    "score": 0.6797,
+    "reasoning": "Applied ML Engineer at Freshworks with 8.0 yrs exp; hands-on in Embeddings, Vector Search, Pinecone, Weaviate; recruiter response rate 0.42.",
+    "current_role": "Applied ML Engineer",
+    "current_company": "Freshworks",
+    "years_of_experience": 8.0,
+    "location": "Pune, Maharashtra",
+    "recruiter_response_rate": 0.42,
+    "github_activity_score": 23.1,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.1,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 96.7,
+      "behavioral_pct": 42.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "Opensearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Freshworks?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 62,
+    "candidate_id": "CAND_0052682",
+    "score": 0.6793,
+    "reasoning": "NLP Engineer at Aganitha with 6.6 yrs exp; hands-on in Embeddings, Pinecone, Faiss, Rag; recruiter response rate 0.88.",
+    "current_role": "NLP Engineer",
+    "current_company": "Aganitha",
+    "years_of_experience": 6.6,
+    "location": "Vizag, Andhra Pradesh",
+    "recruiter_response_rate": 0.88,
+    "github_activity_score": 72.4,
+    "score_breakdown": {
+      "semantic_fit_pct": 34.1,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 86.7,
+      "behavioral_pct": 82.8
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Ranking",
+      "Python",
+      "Pytorch"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Aganitha?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 63,
+    "candidate_id": "CAND_0028422",
+    "score": 0.6789,
+    "reasoning": "Junior ML Engineer at Yellow.ai with 5.5 yrs exp; hands-on in Vector Search, Pinecone, Opensearch, Retrieval; recruiter response rate 0.76.",
+    "current_role": "Junior ML Engineer",
+    "current_company": "Yellow.ai",
+    "years_of_experience": 5.5,
+    "location": "Chennai, Tamil Nadu",
+    "recruiter_response_rate": 0.76,
+    "github_activity_score": 71.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 30.8,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 80.0,
+      "behavioral_pct": 74.1
+    },
+    "matched_skills": [
+      "Vector Search",
+      "Pinecone",
+      "Opensearch",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Yellow.ai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 64,
+    "candidate_id": "CAND_0081686",
+    "score": 0.6788,
+    "reasoning": "Search Engineer at Netflix with 6.0 yrs exp; hands-on in Embeddings, Milvus, Elasticsearch, Faiss; recruiter response rate 0.91.",
+    "current_role": "Search Engineer",
+    "current_company": "Netflix",
+    "years_of_experience": 6.0,
+    "location": "Austin",
+    "recruiter_response_rate": 0.91,
+    "github_activity_score": 46.4,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.4,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 70.8,
+      "behavioral_pct": 70.9
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Milvus",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Python"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Netflix?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 65,
+    "candidate_id": "CAND_0037566",
+    "score": 0.678,
+    "reasoning": "Machine Learning Engineer at LinkedIn with 6.9 yrs exp; hands-on in Embeddings, Pinecone, Elasticsearch, Rag; recruiter response rate 0.50.",
+    "current_role": "Machine Learning Engineer",
+    "current_company": "LinkedIn",
+    "years_of_experience": 6.9,
+    "location": "Bangalore, Karnataka",
+    "recruiter_response_rate": 0.5,
+    "github_activity_score": 73.4,
+    "score_breakdown": {
+      "semantic_fit_pct": 33.6,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 65.1
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Elasticsearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at LinkedIn?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 66,
+    "candidate_id": "CAND_0092278",
+    "score": 0.6779,
+    "reasoning": "Senior NLP Engineer at Microsoft with 6.8 yrs exp; hands-on in Embeddings, Vector Search, Milvus, Elasticsearch; recruiter response rate 0.07.",
+    "current_role": "Senior NLP Engineer",
+    "current_company": "Microsoft",
+    "years_of_experience": 6.8,
+    "location": "Pune, Maharashtra",
+    "recruiter_response_rate": 0.07,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 44.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 88.3,
+      "behavioral_pct": 31.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Milvus",
+      "Elasticsearch",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Microsoft?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 67,
+    "candidate_id": "CAND_0096474",
+    "score": 0.6776,
+    "reasoning": "Civil Engineer at Wayne Enterprises with 10.8 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.78.",
+    "current_role": "Civil Engineer",
+    "current_company": "Wayne Enterprises",
+    "years_of_experience": 10.8,
+    "location": "Vizag, Andhra Pradesh",
+    "recruiter_response_rate": 0.78,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.0,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 62.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Wayne Enterprises?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 68,
+    "candidate_id": "CAND_0044855",
+    "score": 0.6769,
+    "reasoning": "Senior Data Scientist at Flipkart with 6.6 yrs exp; hands-on in Embeddings, Vector Search, Pinecone, Qdrant; recruiter response rate 0.57.",
+    "current_role": "Senior Data Scientist",
+    "current_company": "Flipkart",
+    "years_of_experience": 6.6,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.57,
+    "github_activity_score": 46.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.7,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 78.3,
+      "behavioral_pct": 61.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Pinecone",
+      "Qdrant",
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Flipkart?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 69,
+    "candidate_id": "CAND_0041610",
+    "score": 0.6758,
+    "reasoning": "Recommendation Systems Engineer at Zoho with 6.7 yrs exp; hands-on in Embeddings, Pinecone, Opensearch, Elasticsearch; recruiter response rate 0.52.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 6.7,
+    "location": "Indore, Madhya Pradesh",
+    "recruiter_response_rate": 0.52,
+    "github_activity_score": 52.1,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 85.8,
+      "behavioral_pct": 52.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Opensearch",
+      "Elasticsearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Pytorch",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Zoho?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 70,
+    "candidate_id": "CAND_0094759",
+    "score": 0.6758,
+    "reasoning": "Lead AI Engineer at Meta with 8.6 yrs exp; hands-on in Embeddings, Vector Search, Weaviate, Qdrant; recruiter response rate 0.11.",
+    "current_role": "Lead AI Engineer",
+    "current_company": "Meta",
+    "years_of_experience": 8.6,
+    "location": "Mumbai, Maharashtra",
+    "recruiter_response_rate": 0.11,
+    "github_activity_score": 76.2,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 86.7,
+      "behavioral_pct": 40.2
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Weaviate",
+      "Qdrant",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Meta?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 71,
+    "candidate_id": "CAND_0088025",
+    "score": 0.6739,
+    "reasoning": "Staff Machine Learning Engineer at Yellow.ai with 8.6 yrs exp; hands-on in Pinecone, Elasticsearch, Rag, Retrieval; recruiter response rate 0.83.",
+    "current_role": "Staff Machine Learning Engineer",
+    "current_company": "Yellow.ai",
+    "years_of_experience": 8.6,
+    "location": "Jaipur, Rajasthan",
+    "recruiter_response_rate": 0.83,
+    "github_activity_score": 74.6,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 75.9
+    },
+    "matched_skills": [
+      "Pinecone",
+      "Elasticsearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Tensorflow",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Yellow.ai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 72,
+    "candidate_id": "CAND_0070316",
+    "score": 0.6734,
+    "reasoning": "Accountant at Wayne Enterprises with 7.0 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.59.",
+    "current_role": "Accountant",
+    "current_company": "Wayne Enterprises",
+    "years_of_experience": 7.0,
+    "location": "Austin",
+    "recruiter_response_rate": 0.59,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 42.4,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 91.5,
+      "behavioral_pct": 53.0
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Wayne Enterprises?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 73,
+    "candidate_id": "CAND_0007412",
+    "score": 0.6722,
+    "reasoning": "Applied ML Engineer at Zoho with 7.4 yrs exp; hands-on in Embeddings, Pinecone, Milvus, Rag; recruiter response rate 0.76.",
+    "current_role": "Applied ML Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 7.4,
+    "location": "Noida, Uttar Pradesh",
+    "recruiter_response_rate": 0.76,
+    "github_activity_score": 36.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.4,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 94.2,
+      "behavioral_pct": 65.1
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Milvus",
+      "Rag",
+      "Ranking",
+      "Pytorch",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Zoho?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 74,
+    "candidate_id": "CAND_0067264",
+    "score": 0.6721,
+    "reasoning": "Customer Support at Infosys with 12.3 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.65.",
+    "current_role": "Customer Support",
+    "current_company": "Infosys",
+    "years_of_experience": 12.3,
+    "location": "Vizag, Andhra Pradesh",
+    "recruiter_response_rate": 0.65,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 78.0,
+      "behavioral_pct": 56.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Infosys?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 75,
+    "candidate_id": "CAND_0016440",
+    "score": 0.672,
+    "reasoning": "Civil Engineer at Infosys with 7.6 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.68.",
+    "current_role": "Civil Engineer",
+    "current_company": "Infosys",
+    "years_of_experience": 7.6,
+    "location": "Delhi, Delhi",
+    "recruiter_response_rate": 0.68,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.7,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 96.7,
+      "behavioral_pct": 58.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Infosys?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 76,
+    "candidate_id": "CAND_0011816",
+    "score": 0.6717,
+    "reasoning": "Business Analyst at Dunder Mifflin with 13.5 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.31.",
+    "current_role": "Business Analyst",
+    "current_company": "Dunder Mifflin",
+    "years_of_experience": 13.5,
+    "location": "Kochi, Kerala",
+    "recruiter_response_rate": 0.31,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 42.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 78.0,
+      "behavioral_pct": 44.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Dunder Mifflin?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 77,
+    "candidate_id": "CAND_0086022",
+    "score": 0.6713,
+    "reasoning": "Senior Applied Scientist at Sarvam AI with 5.3 yrs exp; hands-on in Embeddings, Vector Search, Pinecone, Elasticsearch; recruiter response rate 0.55.",
+    "current_role": "Senior Applied Scientist",
+    "current_company": "Sarvam AI",
+    "years_of_experience": 5.3,
+    "location": "Kolkata, West Bengal",
+    "recruiter_response_rate": 0.55,
+    "github_activity_score": 75.2,
+    "score_breakdown": {
+      "semantic_fit_pct": 43.5,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 66.1
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Pinecone",
+      "Elasticsearch",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Pytorch",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Sarvam AI?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 78,
+    "candidate_id": "CAND_0027691",
+    "score": 0.6712,
+    "reasoning": "NLP Engineer at Haptik with 6.5 yrs exp; hands-on in Embeddings, Weaviate, Elasticsearch, Faiss; recruiter response rate 0.68.",
+    "current_role": "NLP Engineer",
+    "current_company": "Haptik",
+    "years_of_experience": 6.5,
+    "location": "Pune, Maharashtra",
+    "recruiter_response_rate": 0.68,
+    "github_activity_score": 58.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 33.8,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 73.3,
+      "behavioral_pct": 70.8
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Weaviate",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Tensorflow",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Haptik?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 79,
+    "candidate_id": "CAND_0017960",
+    "score": 0.6704,
+    "reasoning": "Recommendation Systems Engineer at Nykaa with 7.7 yrs exp; hands-on in Embeddings, Pinecone, Qdrant, Faiss; recruiter response rate 0.72.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Nykaa",
+    "years_of_experience": 7.7,
+    "location": "Bangalore, Karnataka",
+    "recruiter_response_rate": 0.72,
+    "github_activity_score": 92.4,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.1,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 77.9
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Qdrant",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Nykaa?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 80,
+    "candidate_id": "CAND_0035958",
+    "score": 0.6704,
+    "reasoning": "Customer Support at Initech with 4.1 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.72.",
+    "current_role": "Customer Support",
+    "current_company": "Initech",
+    "years_of_experience": 4.1,
+    "location": "Delhi, Delhi",
+    "recruiter_response_rate": 0.72,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.7,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 88.0,
+      "behavioral_pct": 64.3
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Initech?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 81,
+    "candidate_id": "CAND_0004005",
+    "score": 0.669,
+    "reasoning": "Civil Engineer at Pied Piper with 10.9 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.05.",
+    "current_role": "Civil Engineer",
+    "current_company": "Pied Piper",
+    "years_of_experience": 10.9,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.05,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.8,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 25.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Pied Piper?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 82,
+    "candidate_id": "CAND_0099806",
+    "score": 0.669,
+    "reasoning": "AI Engineer at Mad Street Den with 4.6 yrs exp; hands-on in Embeddings, Weaviate, Qdrant, Elasticsearch; recruiter response rate 0.76.",
+    "current_role": "AI Engineer",
+    "current_company": "Mad Street Den",
+    "years_of_experience": 4.6,
+    "location": "Bhubaneswar, Odisha",
+    "recruiter_response_rate": 0.76,
+    "github_activity_score": 86.9,
+    "score_breakdown": {
+      "semantic_fit_pct": 39.4,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 54.0,
+      "behavioral_pct": 82.1
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Weaviate",
+      "Qdrant",
+      "Elasticsearch",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Mad Street Den?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 83,
+    "candidate_id": "CAND_0018722",
+    "score": 0.6688,
+    "reasoning": "Recommendation Systems Engineer at Saarthi.ai with 6.6 yrs exp; hands-on in Weaviate, Elasticsearch, Faiss, Sentence-Transformers; recruiter response rate 0.79.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "Saarthi.ai",
+    "years_of_experience": 6.6,
+    "location": "Toronto",
+    "recruiter_response_rate": 0.79,
+    "github_activity_score": 94.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 80.5
+    },
+    "matched_skills": [
+      "Weaviate",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Saarthi.ai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 84,
+    "candidate_id": "CAND_0049538",
+    "score": 0.6679,
+    "reasoning": "Applied ML Engineer at Saarthi.ai with 5.8 yrs exp; hands-on in Embeddings, Vector Search, Milvus, Opensearch; recruiter response rate 0.72.",
+    "current_role": "Applied ML Engineer",
+    "current_company": "Saarthi.ai",
+    "years_of_experience": 5.8,
+    "location": "Jaipur, Rajasthan",
+    "recruiter_response_rate": 0.72,
+    "github_activity_score": 90.8,
+    "score_breakdown": {
+      "semantic_fit_pct": 34.9,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 67.5,
+      "behavioral_pct": 73.8
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Milvus",
+      "Opensearch",
+      "Elasticsearch",
+      "Retrieval",
+      "Ranking",
+      "Pytorch",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Saarthi.ai?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 85,
+    "candidate_id": "CAND_0053591",
+    "score": 0.6678,
+    "reasoning": "AI Engineer at Ola with 5.3 yrs exp; hands-on in Embeddings, Pinecone, Qdrant, Milvus; recruiter response rate 0.81.",
+    "current_role": "AI Engineer",
+    "current_company": "Ola",
+    "years_of_experience": 5.3,
+    "location": "Toronto",
+    "recruiter_response_rate": 0.81,
+    "github_activity_score": 75.8,
+    "score_breakdown": {
+      "semantic_fit_pct": 37.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 77.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Qdrant",
+      "Milvus",
+      "Opensearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Ranking",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Ola?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 86,
+    "candidate_id": "CAND_0014440",
+    "score": 0.6674,
+    "reasoning": "Recommendation Systems Engineer at CRED with 6.4 yrs exp; hands-on in Qdrant, Milvus, Elasticsearch, Faiss; recruiter response rate 0.64.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "CRED",
+    "years_of_experience": 6.4,
+    "location": "Chennai, Tamil Nadu",
+    "recruiter_response_rate": 0.64,
+    "github_activity_score": 89.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.5,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 85.8,
+      "behavioral_pct": 72.6
+    },
+    "matched_skills": [
+      "Qdrant",
+      "Milvus",
+      "Elasticsearch",
+      "Faiss",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at CRED?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 87,
+    "candidate_id": "CAND_0005632",
+    "score": 0.6673,
+    "reasoning": "Backend Engineer at Dunder Mifflin with 5.6 yrs exp; hands-on in Pinecone, Opensearch, Elasticsearch, Rag; recruiter response rate 0.68.",
+    "current_role": "Backend Engineer",
+    "current_company": "Dunder Mifflin",
+    "years_of_experience": 5.6,
+    "location": "Chandigarh, Chandigarh",
+    "recruiter_response_rate": 0.68,
+    "github_activity_score": 49.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 31.2,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 100.0,
+      "behavioral_pct": 63.9
+    },
+    "matched_skills": [
+      "Pinecone",
+      "Opensearch",
+      "Elasticsearch",
+      "Rag",
+      "Python",
+      "Xgboost",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Dunder Mifflin?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 88,
+    "candidate_id": "CAND_0039521",
+    "score": 0.6673,
+    "reasoning": "Search Engineer at Salesforce with 3.0 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Qdrant; recruiter response rate 0.41.",
+    "current_role": "Search Engineer",
+    "current_company": "Salesforce",
+    "years_of_experience": 3.0,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.41,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 84.0,
+      "behavioral_pct": 48.9
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "Rag",
+      "Ranking",
+      "Pytorch",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Salesforce?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 89,
+    "candidate_id": "CAND_0094370",
+    "score": 0.667,
+    "reasoning": "Business Analyst at Dunder Mifflin with 8.4 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.60.",
+    "current_role": "Business Analyst",
+    "current_company": "Dunder Mifflin",
+    "years_of_experience": 8.4,
+    "location": "Jaipur, Rajasthan",
+    "recruiter_response_rate": 0.6,
+    "github_activity_score": 28.6,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.1,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 55.5
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Dunder Mifflin?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 90,
+    "candidate_id": "CAND_0081846",
+    "score": 0.6669,
+    "reasoning": "Lead AI Engineer at Razorpay with 6.7 yrs exp; hands-on in Embeddings, Vector Search, Qdrant, Elasticsearch; recruiter response rate 0.73.",
+    "current_role": "Lead AI Engineer",
+    "current_company": "Razorpay",
+    "years_of_experience": 6.7,
+    "location": "Jaipur, Rajasthan",
+    "recruiter_response_rate": 0.73,
+    "github_activity_score": 33.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 42.4,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 65.8
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Qdrant",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Ndcg",
+      "Mrr",
+      "Python",
+      "Pytorch",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Razorpay?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 91,
+    "candidate_id": "CAND_0041149",
+    "score": 0.6666,
+    "reasoning": "Civil Engineer at Pied Piper with 13.7 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.56.",
+    "current_role": "Civil Engineer",
+    "current_company": "Pied Piper",
+    "years_of_experience": 13.7,
+    "location": "Coimbatore, Tamil Nadu",
+    "recruiter_response_rate": 0.56,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 42.9,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 84.0,
+      "behavioral_pct": 57.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Pied Piper?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 92,
+    "candidate_id": "CAND_0048584",
+    "score": 0.6665,
+    "reasoning": "Business Analyst at TCS with 8.0 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.47.",
+    "current_role": "Business Analyst",
+    "current_company": "TCS",
+    "years_of_experience": 8.0,
+    "location": "New York",
+    "recruiter_response_rate": 0.47,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.7,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 49.1
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at TCS?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 93,
+    "candidate_id": "CAND_0041669",
+    "score": 0.6664,
+    "reasoning": "Recommendation Systems Engineer at CRED with 8.0 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Qdrant; recruiter response rate 0.77.",
+    "current_role": "Recommendation Systems Engineer",
+    "current_company": "CRED",
+    "years_of_experience": 8.0,
+    "location": "Noida, Uttar Pradesh",
+    "recruiter_response_rate": 0.77,
+    "github_activity_score": 70.9,
+    "score_breakdown": {
+      "semantic_fit_pct": 39.4,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 72.3
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "Milvus",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Ranking"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at CRED?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 94,
+    "candidate_id": "CAND_0016163",
+    "score": 0.6662,
+    "reasoning": "Applied ML Engineer at Dream11 with 6.7 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Elasticsearch; recruiter response rate 0.72.",
+    "current_role": "Applied ML Engineer",
+    "current_company": "Dream11",
+    "years_of_experience": 6.7,
+    "location": "Gurgaon, Haryana",
+    "recruiter_response_rate": 0.72,
+    "github_activity_score": 95.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 29.3,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 70.0,
+      "behavioral_pct": 82.4
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Dream11?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 95,
+    "candidate_id": "CAND_0023035",
+    "score": 0.666,
+    "reasoning": "Project Manager at Acme Corp with 8.4 yrs exp; hands-on in Embeddings, Vector Database, Pinecone, Faiss; recruiter response rate 0.74.",
+    "current_role": "Project Manager",
+    "current_company": "Acme Corp",
+    "years_of_experience": 8.4,
+    "location": "Austin",
+    "recruiter_response_rate": 0.74,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 38.6,
+      "skill_depth_pct": 87.5,
+      "trajectory_pct": 85.7,
+      "behavioral_pct": 64.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Acme Corp?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 96,
+    "candidate_id": "CAND_0027801",
+    "score": 0.6657,
+    "reasoning": "NLP Engineer at InMobi with 7.4 yrs exp; hands-on in Vector Search, Milvus, Opensearch, Elasticsearch; recruiter response rate 0.65.",
+    "current_role": "NLP Engineer",
+    "current_company": "InMobi",
+    "years_of_experience": 7.4,
+    "location": "Hyderabad, Telangana",
+    "recruiter_response_rate": 0.65,
+    "github_activity_score": 63.3,
+    "score_breakdown": {
+      "semantic_fit_pct": 31.1,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 78.3,
+      "behavioral_pct": 66.8
+    },
+    "matched_skills": [
+      "Vector Search",
+      "Milvus",
+      "Opensearch",
+      "Elasticsearch",
+      "Faiss",
+      "Sentence-Transformers",
+      "Rag",
+      "Retrieval",
+      "Tensorflow",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at InMobi?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 97,
+    "candidate_id": "CAND_0054864",
+    "score": 0.6652,
+    "reasoning": "Business Analyst at Wipro with 5.9 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.55.",
+    "current_role": "Business Analyst",
+    "current_company": "Wipro",
+    "years_of_experience": 5.9,
+    "location": "Sydney",
+    "recruiter_response_rate": 0.55,
+    "github_activity_score": 20.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 40.0,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 77.3,
+      "behavioral_pct": 46.9
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Wipro?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 98,
+    "candidate_id": "CAND_0006418",
+    "score": 0.6645,
+    "reasoning": "Machine Learning Engineer at Verloop.io with 5.7 yrs exp; hands-on in Embeddings, Weaviate, Qdrant, Opensearch; recruiter response rate 0.92.",
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Verloop.io",
+    "years_of_experience": 5.7,
+    "location": "Gurgaon, Haryana",
+    "recruiter_response_rate": 0.92,
+    "github_activity_score": 59.7,
+    "score_breakdown": {
+      "semantic_fit_pct": 36.2,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 78.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Weaviate",
+      "Qdrant",
+      "Opensearch",
+      "Elasticsearch",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Tensorflow",
+      "Xgboost",
+      "Learning To Rank"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Verloop.io?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 99,
+    "candidate_id": "CAND_0096142",
+    "score": 0.664,
+    "reasoning": "Applied ML Engineer at upGrad with 5.0 yrs exp; hands-on in Embeddings, Pinecone, Weaviate, Rag; recruiter response rate 0.84.",
+    "current_role": "Applied ML Engineer",
+    "current_company": "upGrad",
+    "years_of_experience": 5.0,
+    "location": "Hyderabad, Telangana",
+    "recruiter_response_rate": 0.84,
+    "github_activity_score": 80.5,
+    "score_breakdown": {
+      "semantic_fit_pct": 35.6,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 60.0,
+      "behavioral_pct": 79.6
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Pinecone",
+      "Weaviate",
+      "Rag",
+      "Retrieval",
+      "Ranking",
+      "Python",
+      "Xgboost"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at upGrad?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  },
+  {
+    "rank": 100,
+    "candidate_id": "CAND_0084970",
+    "score": 0.6639,
+    "reasoning": "Accountant at Hooli with 6.9 yrs exp; hands-on in Embeddings, Vector Search, Vector Database, Pinecone; recruiter response rate 0.33.",
+    "current_role": "Accountant",
+    "current_company": "Hooli",
+    "years_of_experience": 6.9,
+    "location": "Dubai",
+    "recruiter_response_rate": 0.33,
+    "github_activity_score": -1.0,
+    "score_breakdown": {
+      "semantic_fit_pct": 32.2,
+      "skill_depth_pct": 100.0,
+      "trajectory_pct": 94.0,
+      "behavioral_pct": 42.1
+    },
+    "matched_skills": [
+      "Embeddings",
+      "Vector Search",
+      "Vector Database",
+      "Pinecone",
+      "Faiss",
+      "Rag",
+      "Retrieval",
+      "Fastapi"
+    ],
+    "interview_questions": [
+      "Can you walk us through how you handled embedding drift and index updates for vector retrieval at Hooli?",
+      "What evaluation metrics (e.g. NDCG, MAP) did you rely on when testing search ranking offline vs. online?",
+      "How do you decide between fine-tuning an open embedding model vs. using a vector DB like Pinecone/FAISS?"
+    ]
+  }
+]
